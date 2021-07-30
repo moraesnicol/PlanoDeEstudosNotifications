@@ -21,5 +21,6 @@ class StudyPlan: Codable {
         self.date = date
         self.done = done
         self.id = id
+        
     }
 }
